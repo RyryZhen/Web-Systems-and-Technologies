@@ -66,7 +66,7 @@ $skills = ["HTML", "CSS", "Java", "Figma", "Canva" , "Capcut"];
             background: linear-gradient(#004080 , #a3a1ffff);
             color: white;
             padding: 40px 25px;
-            display: flex;
+            display: inline-flex;
             flex-direction: column;
             align-items: center;
             text-align: center;
